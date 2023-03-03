@@ -1,0 +1,12 @@
+{
+  "name": "pieos",
+  "version": "1.0.0",
+  "description": "PieOS Is A Simple \"OS\" Made With Python That Contains 11 Commands",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
